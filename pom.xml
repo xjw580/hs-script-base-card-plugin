@@ -9,10 +9,10 @@
     </parent>
 
     <groupId>com.github.xjw580</groupId>
-    <artifactId>hs-script-base-card</artifactId>
+    <artifactId>hs-script-base-card-plugin</artifactId>
     <version>1.0.0</version>
 
-    <name>hs-script-base-card</name>
+    <name>hs-script-base-card-plugin</name>
 
     <repositories>
         <repository>
