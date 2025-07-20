@@ -1,6 +1,6 @@
 package club.xiaojiawei.hsscriptbasecard.bean.abs
 
-import club.xiaojiawei.CardAction
+import club.xiaojiawei.hsscriptcardsdk.CardAction
 
 /**
  * @author 肖嘉威

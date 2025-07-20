@@ -7,5 +7,6 @@ package club.xiaojiawei.hsscriptbasecard;
 
 public class VersionInfo {
     public static final String VERSION = "${project.version}";
-    public static final String SDK_VERSION = "1.0.0";
+    public static final String CARD_SDK_VERSION_USED = "${card-sdk-version}".endsWith("}") ? null : "${card-sdk-version}";
+    public static final String STRATEGY_SDK_VERSION_USED = "${strategy-sdk-version}".endsWith("}") ? null : "${strategy-sdk-version}";
 }

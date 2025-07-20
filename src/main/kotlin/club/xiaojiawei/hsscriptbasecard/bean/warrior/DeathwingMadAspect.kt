@@ -1,11 +1,11 @@
 package club.xiaojiawei.hsscriptbasecard.bean.warrior
 
-import club.xiaojiawei.CardAction
-import club.xiaojiawei.bean.PlayAction
-import club.xiaojiawei.bean.Player
-import club.xiaojiawei.bean.War
-import club.xiaojiawei.enums.CardTypeEnum
-import club.xiaojiawei.util.CardUtil
+import club.xiaojiawei.hsscriptcardsdk.CardAction
+import club.xiaojiawei.hsscriptcardsdk.bean.PlayAction
+import club.xiaojiawei.hsscriptcardsdk.bean.Player
+import club.xiaojiawei.hsscriptcardsdk.bean.War
+import club.xiaojiawei.hsscriptcardsdk.enums.CardTypeEnum
+import club.xiaojiawei.hsscriptcardsdk.util.CardUtil
 
 /**
  * [疯狂巨龙死亡之翼](https://hearthstone.huijiwiki.com/wiki/Card/55007)

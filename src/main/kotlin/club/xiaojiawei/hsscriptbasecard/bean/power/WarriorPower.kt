@@ -1,9 +1,9 @@
 package club.xiaojiawei.hsscriptbasecard.bean.power
 
-import club.xiaojiawei.CardAction
-import club.xiaojiawei.bean.Player
-import club.xiaojiawei.bean.PowerAction
-import club.xiaojiawei.bean.War
+import club.xiaojiawei.hsscriptcardsdk.CardAction
+import club.xiaojiawei.hsscriptcardsdk.bean.Player
+import club.xiaojiawei.hsscriptcardsdk.bean.PowerAction
+import club.xiaojiawei.hsscriptcardsdk.bean.War
 import club.xiaojiawei.hsscriptbasecard.bean.abs.ClickPower
 
 /**

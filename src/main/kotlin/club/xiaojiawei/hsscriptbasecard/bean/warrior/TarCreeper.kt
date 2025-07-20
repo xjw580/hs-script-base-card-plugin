@@ -1,7 +1,7 @@
 package club.xiaojiawei.hsscriptbasecard.bean.warrior
 
-import club.xiaojiawei.CardAction
-import club.xiaojiawei.bean.War
+import club.xiaojiawei.hsscriptcardsdk.CardAction
+import club.xiaojiawei.hsscriptcardsdk.bean.War
 
 /**
  * [焦油爬行者](https://hearthstone.huijiwiki.com/wiki/Card/41418)

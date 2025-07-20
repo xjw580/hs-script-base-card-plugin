@@ -1,10 +1,10 @@
 package club.xiaojiawei.hsscriptbasecard.bean
 
-import club.xiaojiawei.CardAction
-import club.xiaojiawei.bean.PlayAction
-import club.xiaojiawei.bean.Player
-import club.xiaojiawei.bean.War
-import club.xiaojiawei.data.COIN_CARD_ID
+import club.xiaojiawei.hsscriptcardsdk.CardAction
+import club.xiaojiawei.hsscriptcardsdk.bean.PlayAction
+import club.xiaojiawei.hsscriptcardsdk.bean.Player
+import club.xiaojiawei.hsscriptcardsdk.bean.War
+import club.xiaojiawei.hsscriptcardsdk.data.COIN_CARD_ID
 
 /**
  * 幸运币
